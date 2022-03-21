@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d09d9ebd.css",
-    "main.js": "/static/js/main.e34a3eb7.js",
-    "static/js/787.ab3f3730.chunk.js": "/static/js/787.ab3f3730.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/index.html",
-    "main.d09d9ebd.css.map": "/static/css/main.d09d9ebd.css.map",
-    "main.e34a3eb7.js.map": "/static/js/main.e34a3eb7.js.map",
-    "787.ab3f3730.chunk.js.map": "/static/js/787.ab3f3730.chunk.js.map"
+    "main.css": "/react-localstorage-crud/static/css/main.80b4ab00.css",
+    "main.js": "/react-localstorage-crud/static/js/main.72c385fe.js",
+    "static/js/787.ab3f3730.chunk.js": "/react-localstorage-crud/static/js/787.ab3f3730.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-localstorage-crud/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-localstorage-crud/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-localstorage-crud/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-localstorage-crud/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-localstorage-crud/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/react-localstorage-crud/index.html",
+    "main.80b4ab00.css.map": "/react-localstorage-crud/static/css/main.80b4ab00.css.map",
+    "main.72c385fe.js.map": "/react-localstorage-crud/static/js/main.72c385fe.js.map",
+    "787.ab3f3730.chunk.js.map": "/react-localstorage-crud/static/js/787.ab3f3730.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d09d9ebd.css",
-    "static/js/main.e34a3eb7.js"
+    "static/css/main.80b4ab00.css",
+    "static/js/main.72c385fe.js"
   ]
 }
