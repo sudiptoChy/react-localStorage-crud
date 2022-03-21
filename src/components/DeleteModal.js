@@ -7,7 +7,7 @@ function DeleteModal({ show, handleClose, handleSubmit }) {
                 <Modal.Title>Delete Member</Modal.Title>
             </Modal.Header>
             <Modal.Body>
-                <p>Are you sure, you want to delete this item?</p>
+                <p> Are you sure, you want to delete this item? </p>
             </Modal.Body>
             <Modal.Footer>
                 <Button size="sm" variant="danger" onClick={() => handleSubmit()}> Yes </Button>
